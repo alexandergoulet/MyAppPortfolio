@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lex\AndroidStudioProjects\MyAppPortfolio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Lex\AndroidStudioProjects\MyAppPortfolio\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_eaa1155ebe3573896981c65f4101298e2fd2819e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lex\AndroidStudioProjects\MyAppPortfolio\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Lex\AndroidStudioProjects\MyAppPortfolio\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_739357109df16d306d8e52f0b607af541480b368.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lex\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Lex\AndroidStudioProjects\MyAppPortfolio\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_9baef52380c44e7b2e247722b9bfbbac774c69e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lex\AndroidStudioProjects\MyAppPortfolio\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Lex\AndroidStudioProjects\MyAppPortfolio\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_f18efbd42d0f2d12abc1f835cf5fbd324119e6c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lex\AndroidStudioProjects\MyAppPortfolio\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Lex\AndroidStudioProjects\MyAppPortfolio\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_776831b18142bbea6cc3bd5430739f3992d8cacb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lex\AndroidStudioProjects\MyAppPortfolio\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Lex\AndroidStudioProjects\MyAppPortfolio\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_8903c5b1c214e569c4ab01b8b05e456b03f5736d.jar" />
+    </item>
+
+</items>

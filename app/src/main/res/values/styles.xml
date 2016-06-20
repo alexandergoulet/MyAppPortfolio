@@ -11,7 +11,7 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginTop">10dp</item>
         <item name="android:layout_marginBottom">10dp</item>
-        <item name="android:textSize">20dp</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
     </style>
 
     <style name="projectButtons">
@@ -21,6 +21,7 @@
         <item name="android:layout_marginTop">10dp</item>
         <item name="android:padding">10dp</item>
         <item name="android:textColor">@color/textColorLight</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
     </style>
 
     <style name="capstoneButton">
@@ -30,6 +31,7 @@
         <item name="android:layout_marginTop">10dp</item>
         <item name="android:padding">10dp</item>
         <item name="android:textColor">@color/textColorLight</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
     </style>
 
 </resources>
