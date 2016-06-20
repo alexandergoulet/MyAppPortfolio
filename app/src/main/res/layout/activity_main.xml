@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="240dp"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:layout_gravity="top|center"
+    android:gravity="top|center"
+    tools:context="com.alexandergoulet.www.myappportfolio.MainActivity">
+
+    <TextView
+        style="@style/projectMainTitle"
+        android:text="@string/main_title"
+        android:id="@+id/txtTitle"/>
+    <Button
+        style="@style/projectButtons"
+        android:text="@string/project1Name"
+        android:id="@+id/btnProject1"
+        android:onClick="showToast"/>
+    <Button
+        style="@style/projectButtons"
+        android:text="@string/project2Name"
+        android:id="@+id/btnProject2"
+        android:onClick="showToast"/>
+    <Button
+        style="@style/projectButtons"
+        android:text="@string/project3Name"
+        android:id="@+id/btnProject3"
+        android:onClick="showToast"/>
+    <Button
+        style="@style/projectButtons"
+        android:text="@string/project4Name"
+        android:id="@+id/btnProject4"
+        android:onClick="showToast"/>
+    <Button
+        style="@style/projectButtons"
+        android:text="@string/project5Name"
+        android:id="@+id/btnProject5"
+        android:onClick="showToast"/>
+    <Button
+        style="@style/capstoneButton"
+        android:text="@string/project6Name"
+        android:id="@+id/btnProject6"
+        android:onClick="showToast"/>
+
+</LinearLayout>
